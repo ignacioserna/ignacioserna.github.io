@@ -2,8 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ignacio # the website title (if blank, full name will be used instead)
+title: Ignacio Serna # the website title (if blank, full name will be used instead)
 first_name: Ignacio
+middle_name: 
 last_name: Serna
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
