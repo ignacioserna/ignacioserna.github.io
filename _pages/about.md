@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Independent Researcher | <a href='https://www.mpib-berlin.mpg.de/staff/ignacio-de-la-serna'>Max Planck Visiting Researcher</a> | IE University Professor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an independent researcher funded by a <a href="https://coefficientgiving.org/"><b>CoefficientGiving</b></a> (former Open Philanthropy) grant to study the geometry of learned representations in vision-language models (VLMs). My work focuses on probing the limits of linear structure in large-scale neural networks and how concepts are faithfully captured by linear directions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Current affiliations**  
+- Visiting Researcher at the Max Planck Institute for Human Development (<a href="https://www.mpib-berlin.mpg.de/chm"><b>Center for Humans & Machines</b></a>)
+- Adjunct Professor at IE University 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Background**  
+PhD in Computer Science (2024, Universidad Autónoma de Madrid) with a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in **Mathematics** and a B.S. in **Computer Science** (2018), and an M.S. in Artificial Intelligence (2020).
+
+My research sits at the intersection of computer vision, representation learning, and interpretability.
