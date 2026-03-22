@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an independent researcher funded by a <a href="https://coefficientgiving.org/">CoefficientGiving</a> (former Open Philanthropy) grant to study the geometry of learned representations in vision-language models (VLMs). My work focuses on probing the limits of linear structure in large-scale neural networks and how concepts are faithfully captured by linear directions.
+I am an independent researcher funded by a <a href="https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/">CoefficientGiving</a> (former Open Philanthropy) grant to study the geometry of learned representations in vision-language models (VLMs). My work focuses on probing the limits of linear structure in large-scale neural networks and how concepts are faithfully captured by linear directions.
 
 **Current affiliations**  
 - Visiting Researcher at the Max Planck Institute for Human Development (<a href="https://www.mpib-berlin.mpg.de/chm">Center for Humans & Machines</a>)
