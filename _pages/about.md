@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Independent Researcher | <a href='https://www.mpib-berlin.mpg.de/staff/ignacio-de-la-serna'>Max Planck Visiting Researcher</a> | IE University Professor
+subtitle: Independent Researcher | <a href='https://www.mpib-berlin.mpg.de/staff/ignacio-de-la-serna'>Max Planck Institute</a>
 
 profile:
   align: right
