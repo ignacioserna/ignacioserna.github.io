@@ -459,6 +459,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-machine-behavior-and-machine-culture",
+          title: 'Machine Behavior and Machine Culture',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/machine_behavior/";
             },},{id: "teachings-ai-machine-learning-foundations",
           title: 'AI: Machine Learning Foundations',
           description: "",
