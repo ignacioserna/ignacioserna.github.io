@@ -42,5 +42,3 @@ Autonomous University of Madrid, Spain
 Spring 2022  
 Enrollment: 20  
 Role: Teaching Assistant (co-instructor: Javier Ortega-García)
-
-{% include courses.liquid %}
