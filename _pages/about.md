@@ -30,6 +30,6 @@ I am an independent researcher funded by a <a href="https://coefficientgiving.or
 - Adjunct Professor at <a href="https://www.ie.edu/school-science-technology/">IE University</a>
 
 **Background**  
-PhD in Computer Science (2024, Universidad Autónoma de Madrid) with a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in **Mathematics** and a B.S. in **Computer Science** (2018), and an M.S. in Artificial Intelligence (2020).
+PhD in Computer Science (2024, Autonomous University of Madrid) with a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in **Mathematics** and a B.S. in **Computer Science** (2018), and an M.S. in Artificial Intelligence (2020).
 
 My research sits at the intersection of computer vision, representation learning, and interpretability.
