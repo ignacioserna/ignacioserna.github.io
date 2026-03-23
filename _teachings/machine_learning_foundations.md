@@ -1,6 +1,6 @@
 ---
 layout: course
-title: AI: Machine Learning Foundations
+title: AI\: Machine Learning Foundations
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
 instructor: Professor
 year: 2026
