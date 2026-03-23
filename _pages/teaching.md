@@ -16,12 +16,12 @@ Enrollment: 40
 Role: Professor
 
 ### 2025
-**Machine Behavior and Machine Culture** (AI, Masters)
-Technical University of Madrid
-Short Course: Masters in Artificial Intelligence
-June 2025
-Enrollment: 15
-Role: Lecturer
+**Machine Behavior and Machine Culture** (AI, Masters)  
+Technical University of Madrid  
+Short Course: Masters in Artificial Intelligence  
+June 2025  
+Enrollment: 15  
+Role: Lecturer  
 
 ### 2023
 **University Program for Seniors**  
