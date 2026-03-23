@@ -469,6 +469,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/machine_learning_foundations/";
+            },},{id: "teachings-signal-analysis-and-information-modeling",
+          title: 'Signal Analysis and Information Modeling',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/signal_analysis/";
             },},{
         id: 'social-cv',
         title: 'CV',
