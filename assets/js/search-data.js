@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -459,6 +459,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-",
+          title: '',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/machine_learning_foundations/";
             },},{
         id: 'social-cv',
         title: 'CV',
