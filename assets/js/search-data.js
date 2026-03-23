@@ -464,11 +464,6 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/machine_learning_foundations/";
-            },},{id: "teachings-university-program-for-seniors",
-          title: 'University Program for Seniors',
-          description: "",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/puma/";
             },},{id: "teachings-signal-analysis-and-information-modeling",
           title: 'Signal Analysis and Information Modeling',
           description: "",
