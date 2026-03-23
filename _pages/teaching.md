@@ -8,37 +8,4 @@ nav_order: 6
 calendar: true
 ---
 
-### 2026
-**AI: Machine Learning Foundations** (CSAI.2.M.B)  
-IE University, Spain  
-Spring 2026  
-Enrollment: 40  
-Role: Professor
-
-### 2025
-**Machine Behavior and Machine Culture** (AI, Masters)  
-Technical University of Madrid, Spain  
-Short Course: Masters in Artificial Intelligence  
-June 2025  
-Enrollment: 15  
-Role: Lecturer  
-
-### 2023
-**University Program for Seniors**  
-Autonomous University of Madrid, Spain  
-November 2023  
-Enrollment: 50  
-Role: Instructor (co-instructor: Aythami Morales)
-
-### 2022
-**Signal Analysis and Information Modeling** (EE446, Undergraduate)  
-Autonomous University of Madrid, Spain  
-Spring 2022  
-Enrollment: 40  
-Role: Teaching Assistant (co-instructor: Javier Ortega-García)
-
-**Biometric Recognition** (EE52, Masters)  
-Autonomous University of Madrid, Spain  
-Spring 2022  
-Enrollment: 20  
-Role: Teaching Assistant (co-instructor: Javier Ortega-García)
+{% include courses.liquid %}
