@@ -27,7 +27,7 @@ I am an independent researcher funded by a <a href="https://coefficientgiving.or
 
 **Current affiliations**  
 - Visiting Researcher at the Max Planck Institute for Human Development (<a href="https://www.mpib-berlin.mpg.de/chm">Center for Humans & Machines</a>)
-- Adjunct Professor at IE University 
+- Adjunct Professor at <a href="https://www.ie.edu/school-science-technology/">IE University</a>
 
 **Background**  
 PhD in Computer Science (2024, Universidad Autónoma de Madrid) with a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in **Mathematics** and a B.S. in **Computer Science** (2018), and an M.S. in Artificial Intelligence (2020).
