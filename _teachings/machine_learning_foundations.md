@@ -7,7 +7,6 @@ year: 2026
 term: Spring
 location: IE Tower, Room 504
 time: Wednesdays and Thursdays, 3:00-4:20 PM
-course_id: data-science-fundamentals
 
 ---
 
