@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-03'
 papers:
   qS4cpgUAAAAJ:3fE2CSJIrl8C:
     citations: 1
@@ -10,15 +10,19 @@ papers:
     title: 'Unraveling Bias Effects in Computer Vision: Multi-Level Detection in Face Biometrics'
     year: Unknown Year
   qS4cpgUAAAAJ:8k81kl-MbHgC:
-    citations: 0
+    citations: 1
     title: Discovering Intersectional Bias via Directional Alignment in Face Recognition Embeddings
     year: '2026'
+  qS4cpgUAAAAJ:9ZlFYXVOiuMC:
+    citations: 2
+    title: 'Unraveling Machine Behavior by Multi-Level Bias Analysis and Detection: Methodology and Application to Computer Vision'
+    year: '2026'
   qS4cpgUAAAAJ:9yKSN-GCB0IC:
-    citations: 132
+    citations: 134
     title: 'SensitiveLoss: Improving Accuracy and Fairness of Face Representations with Discrimination-Aware Deep Learning'
     year: '2022'
   qS4cpgUAAAAJ:IjCSPb-OGe4C:
-    citations: 34
+    citations: 36
     title: SetMargin Loss applied to Deep Keystroke Biometrics with Circle Packing Interpretation
     year: '2022'
   qS4cpgUAAAAJ:Se3iqnhoufwC:
@@ -26,7 +30,7 @@ papers:
     title: 'Alien Recombination: Exploring Concept Blends Beyond Human Cognitive Availability in Visual Art'
     year: '2024'
   qS4cpgUAAAAJ:UeHWp8X0CEIC:
-    citations: 17
+    citations: 19
     title: 'FairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment'
     year: '2020'
   qS4cpgUAAAAJ:UebtZRa9Y70C:
@@ -34,23 +38,23 @@ papers:
     title: A Rapid Test for Accuracy and Bias of Face Recognition Technology
     year: '2025'
   qS4cpgUAAAAJ:Y0pCki6q_DkC:
-    citations: 19
+    citations: 20
     title: 'FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment'
     year: '2021'
   qS4cpgUAAAAJ:YsMSGLbcyi4C:
-    citations: 97
+    citations: 101
     title: 'Human-Centric Multimodal Machine Learning: Recent Advances and Testbed on AI-based Recruitment'
     year: '2023'
   qS4cpgUAAAAJ:_FxGoFyzp5QC:
-    citations: 24
+    citations: 26
     title: 'Measuring bias in AI models: An statistical approach introducing N-Sigma'
     year: '2023'
   qS4cpgUAAAAJ:aqlVkmm33-oC:
-    citations: 113
+    citations: 115
     title: 'InsideBias: Measuring bias in deep networks and application to face gender biometrics'
     year: '2021'
   qS4cpgUAAAAJ:d1gkVwhDpl0C:
-    citations: 117
+    citations: 115
     title: 'Bias in Multimodal AI: Testbed for Fair Automatic Recruitment'
     year: '2020'
   qS4cpgUAAAAJ:eQOLeE2rZwMC:
@@ -58,26 +62,26 @@ papers:
     title: 'OTB-morph: One-Time Biometrics via Morphing'
     year: '2023'
   qS4cpgUAAAAJ:mVmsd5A6BfQC:
-    citations: 19
+    citations: 17
     title: "Empirical evidence of Large Language Model\u2019s influence on human spoken communication. arXiv"
     year: '2024'
   qS4cpgUAAAAJ:qjMakFHDy7sC:
-    citations: 43
+    citations: 42
     title: Facial Expressions as a Vulnerability in Face Recognition
     year: '2021'
   qS4cpgUAAAAJ:roLk4NBRz8UC:
-    citations: 79
+    citations: 86
     title: Empirical evidence of Large Language Model's influence on human spoken communication
     year: '2024'
   qS4cpgUAAAAJ:u5HHmVD_uO8C:
-    citations: 70
+    citations: 72
     title: 'Algorithmic Discrimination: Formulation and Exploration in Deep Learning-based Face Biometrics'
     year: '2020'
   qS4cpgUAAAAJ:ufrVoPGSRksC:
-    citations: 73
+    citations: 72
     title: Leveraging Large Language Models for Topic Classification in the Domain of Public Affairs
     year: '2023'
   qS4cpgUAAAAJ:zYLM7Y9cAGgC:
-    citations: 23
+    citations: 24
     title: 'IFBiD: Inference-Free Bias Detection'
     year: '2022'
