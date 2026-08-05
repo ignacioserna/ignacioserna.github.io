@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   qS4cpgUAAAAJ:3fE2CSJIrl8C:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'SensitiveLoss: Improving Accuracy and Fairness of Face Representations with Discrimination-Aware Deep Learning'
     year: '2022'
   qS4cpgUAAAAJ:IjCSPb-OGe4C:
-    citations: 36
+    citations: 37
     title: SetMargin Loss applied to Deep Keystroke Biometrics with Circle Packing Interpretation
     year: '2022'
   qS4cpgUAAAAJ:Se3iqnhoufwC:
@@ -66,11 +66,11 @@ papers:
     title: "Empirical evidence of Large Language Model\u2019s influence on human spoken communication. arXiv"
     year: '2024'
   qS4cpgUAAAAJ:qjMakFHDy7sC:
-    citations: 42
+    citations: 43
     title: Facial Expressions as a Vulnerability in Face Recognition
     year: '2021'
   qS4cpgUAAAAJ:roLk4NBRz8UC:
-    citations: 86
+    citations: 88
     title: Empirical evidence of Large Language Model's influence on human spoken communication
     year: '2024'
   qS4cpgUAAAAJ:u5HHmVD_uO8C:
