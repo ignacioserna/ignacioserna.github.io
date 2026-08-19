@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-19'
 papers:
   qS4cpgUAAAAJ:3fE2CSJIrl8C:
     citations: 1
@@ -18,13 +18,17 @@ papers:
     title: 'Unraveling Machine Behavior by Multi-Level Bias Analysis and Detection: Methodology and Application to Computer Vision'
     year: '2026'
   qS4cpgUAAAAJ:9yKSN-GCB0IC:
-    citations: 134
+    citations: 137
     title: 'SensitiveLoss: Improving Accuracy and Fairness of Face Representations with Discrimination-Aware Deep Learning'
     year: '2022'
   qS4cpgUAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 39
     title: SetMargin Loss applied to Deep Keystroke Biometrics with Circle Packing Interpretation
     year: '2022'
+  qS4cpgUAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'Cultural Alien Sampler: Open-ended Art Generation Balancing Originality and Coherence'
+    year: '2026'
   qS4cpgUAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: 'Alien Recombination: Exploring Concept Blends Beyond Human Cognitive Availability in Visual Art'
@@ -42,35 +46,35 @@ papers:
     title: 'FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment'
     year: '2021'
   qS4cpgUAAAAJ:YsMSGLbcyi4C:
-    citations: 101
+    citations: 102
     title: 'Human-Centric Multimodal Machine Learning: Recent Advances and Testbed on AI-based Recruitment'
     year: '2023'
   qS4cpgUAAAAJ:_FxGoFyzp5QC:
-    citations: 26
+    citations: 27
     title: 'Measuring bias in AI models: An statistical approach introducing N-Sigma'
     year: '2023'
   qS4cpgUAAAAJ:aqlVkmm33-oC:
-    citations: 115
+    citations: 116
     title: 'InsideBias: Measuring bias in deep networks and application to face gender biometrics'
     year: '2021'
   qS4cpgUAAAAJ:d1gkVwhDpl0C:
-    citations: 115
+    citations: 120
     title: 'Bias in Multimodal AI: Testbed for Fair Automatic Recruitment'
     year: '2020'
   qS4cpgUAAAAJ:eQOLeE2rZwMC:
-    citations: 15
+    citations: 16
     title: 'OTB-morph: One-Time Biometrics via Morphing'
     year: '2023'
   qS4cpgUAAAAJ:mVmsd5A6BfQC:
-    citations: 17
-    title: "Empirical evidence of Large Language Model\u2019s influence on human spoken communication. arXiv"
-    year: '2024'
+    citations: 19
+    title: "Empirical evidence of Large Language Model\u2019s influence on human spoken communication (2024)"
+    year: '1754'
   qS4cpgUAAAAJ:qjMakFHDy7sC:
     citations: 43
     title: Facial Expressions as a Vulnerability in Face Recognition
     year: '2021'
   qS4cpgUAAAAJ:roLk4NBRz8UC:
-    citations: 88
+    citations: 92
     title: Empirical evidence of Large Language Model's influence on human spoken communication
     year: '2024'
   qS4cpgUAAAAJ:u5HHmVD_uO8C:
