@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Independent Researcher | <a href='https://www.mpib-berlin.mpg.de/staff/ignacio-de-la-serna'>Max Planck Institute</a>
+subtitle: Independent Researcher
 
 profile:
   align: right
@@ -23,14 +23,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an independent researcher funded by a <a href="https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/">CoefficientGiving</a> (former Open Philanthropy) grant to study the geometry of learned representations in the joint space of vision encoders with other modalities. My work focuses on probing the limits of linear structure in large-scale neural networks and how concepts are faithfully captured by linear directions.
+I am an independent researcher funded by a <a href="https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/">CoefficientGiving</a> (former Open Philanthropy) grant to study the geometry of learned representations in the joint space of vision encoders with other modalities. My work probes the limits of linear structure in large-scale neural networks and asks how faithfully concepts are captured by linear directions — sitting at the intersection of computer vision, representation learning, and interpretability.
 
-**Current affiliations**  
+**Affiliations**
+- Visitor at the <a href="https://tsglab.github.io/">Technical Safety & Governance Lab</a>, University of Oxford, with <a href="https://fbarez.github.io/">Fazl Barez</a>
 - Visiting Researcher at the Max Planck Institute for Human Development (<a href="https://www.mpib-berlin.mpg.de/chm">Center for Humans & Machines</a>)
-- Adjunct Professor at <a href="https://www.ie.edu/school-science-technology/">IE University</a>
 - Visiting Faculty at <a href="https://software.imdea.org/es/people/ignacio.serna/">IMDEA Software</a>
 
-**Background**  
-PhD in Computer Science (2024, Autonomous University of Madrid) with a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in **Mathematics** and a B.S. in **Computer Science** (2018), and an M.S. in Artificial Intelligence (2020).
+**Teaching**  
+- *Machine Learning Foundations* at <a href="https://www.ie.edu/school-science-technology/">IE University</a>, as Adjunct Professor (spring semester)
 
-My research sits at the intersection of computer vision, representation learning, and interpretability.
+**Background**  
+PhD in Computer Science (2024, Autonomous University of Madrid), including a visiting stay at Caltech (California Institute of Technology) with Professor <a href="https://scholar.google.com/citations?user=j29kMCwAAAAJ">Pietro Perona</a> . Previously postdoc at the Max Planck Institute with <a href="https://www.rahwan.me">Iyad Rahwan</a>. B.S. in Mathematics and a B.S. in Computer Science (2018), and an M.S. in Artificial Intelligence (2020).
