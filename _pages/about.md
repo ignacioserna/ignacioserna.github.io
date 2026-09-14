@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an independent researcher funded by a <a href="https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/">CoefficientGiving</a> (former Open Philanthropy) grant to study the geometry of learned representations in the joint space of vision encoders with other modalities. My work probes the limits of linear structure in large-scale neural networks and asks how faithfully concepts are captured by linear directions — sitting at the intersection of computer vision, representation learning, and interpretability.
+I am an independent researcher funded by a <a href="https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/">Coefficient Giving</a> (formerly Open Philanthropy) grant to study the geometry of learned representations in the joint space of vision encoders with other modalities. My work probes the limits of linear structure in large-scale neural networks and asks how faithfully concepts are captured by linear directions — sitting at the intersection of computer vision, representation learning, and interpretability.
 
 **Affiliations**
 - Visitor at the <a href="https://tsglab.github.io/">Technical Safety & Governance Lab</a>, University of Oxford, with <a href="https://fbarez.github.io/">Fazl Barez</a>
