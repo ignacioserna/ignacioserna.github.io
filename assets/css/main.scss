@@ -37,3 +37,25 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* ==========================================
+   CUSTOM OVERRIDES FOR AL-FOLIO
+   ========================================== */
+
+/* 1. Make your author name BOLD instead of underlined */
+.bibliography .author span.font-weight-bold,
+.bibliography .author > a.font-weight-bold,
+.bibliography .author strong {
+  font-weight: 750 !important;
+  text-decoration: none !important;
+}
+
+/* 2. Fix preview image modal clipping and scaling */
+.bibliography .preview img, 
+.zoom-img-wrap img, 
+tr.printings img {
+  max-width: 100% !important;
+  max-height: 85vh !important;
+  object-fit: contain !important;
+  box-sizing: border-box;
+}
