@@ -278,7 +278,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Serna]
-  first_name: [Ignacio]
+  first_name: [Ignacio, I.]
 
   style: apa
   locale: en
