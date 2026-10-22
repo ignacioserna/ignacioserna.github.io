@@ -58,6 +58,12 @@ cv:
         end_date: 2018
 
     Experience:
+      - company: University of Oxford
+        position: Visiting Researcher, Technical Safety & Governance (TSG) Lab
+        location: Oxford, UK
+        start_date: 2026-09
+        end_date: present
+        
       - company: Max Planck Institute for Human Development
         position: Visiting Researcher / Post-doctoral Researcher, Center for Humans and Machines
         location: Berlin, Germany
@@ -80,10 +86,16 @@ cv:
         end_date: present
 
       - company: Autonomous University of Madrid
-        position: Pre-doctoral Researcher, Biometrics and Data Pattern Analytics (BiDA) Lab
+        position: Research Assistant, Biometrics and Data Pattern Analytics (BiDA) Lab
         location: Madrid, Spain
         start_date: 2019-02
-        end_date: 2020-08
+        end_date: 2020-08[span_24](start_span)[span_24](end_span)
+
+      - company: Autonomous University of Madrid
+        position: Research Intern, Biometric Recognition Group – ATVS
+        location: Madrid, Spain
+        start_date: 2015-09
+        end_date: 2016-05[span_25](start_span)[span_25](end_span)
 
       - company: GMV Aerospace and Defence S.A.
         position: GNSS Junior Engineer & Research Trainee
