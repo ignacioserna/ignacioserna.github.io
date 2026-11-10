@@ -28,7 +28,6 @@ I am an independent researcher funded by a <a href="https://coefficientgiving.or
 **Affiliations**
 - Visitor at the <a href="https://tsglab.github.io/">Technical Safety & Governance Lab</a>, University of Oxford, working with <a href="https://fbarez.github.io/">Fazl Barez</a>
 - Visiting Researcher at the Max Planck Institute for Human Development (<a href="https://www.mpib-berlin.mpg.de/chm">Center for Humans & Machines</a>)
-- Visiting Faculty at <a href="https://software.imdea.org/es/people/ignacio.serna/">IMDEA Software</a>
 
 **Teaching**  
 - *Machine Learning Foundations* at <a href="https://www.ie.edu/school-science-technology/">IE University</a>, as Adjunct Professor (spring semester)
