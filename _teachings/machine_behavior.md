@@ -6,5 +6,4 @@ instructor: Lecturer
 year: 2025
 term: June
 enrollment: 15
-
 ---

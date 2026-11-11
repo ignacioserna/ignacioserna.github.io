@@ -42,14 +42,14 @@ cv:
         studyType: Master of Science
         start_date: 2018
         end_date: 2020
-        
+
       - institution: Autonomous University of Madrid
         location: Madrid, Spain
         area: Mathematics
         studyType: Bachelor of Science
         start_date: 2012
         end_date: 2018
-        
+
       - institution: Autonomous University of Madrid
         location: Madrid, Spain
         area: Computer Science
@@ -63,7 +63,7 @@ cv:
         location: Oxford, UK
         start_date: 2026-09
         end_date: present
-        
+
       - company: Max Planck Institute for Human Development
         position: Visiting Researcher / Post-doctoral Researcher, Center for Humans and Machines
         location: Berlin, Germany
@@ -119,9 +119,9 @@ cv:
     Languages:
       - name: Spanish
         summary: "Native speaker"
-        
+
       - name: English
         summary: "Fluent"
-        
+
       - name: Italian
         summary: "Fluent"
